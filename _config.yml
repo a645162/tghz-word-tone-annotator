@@ -1,0 +1,8 @@
+title: Chinese Annotator for Microsoft Word
+description: "A Microsoft Word add-in for adding tone graphs, pinyin or zhuyin to Hanzi（汉字）. "
+google_analytics: UA-40902485-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
